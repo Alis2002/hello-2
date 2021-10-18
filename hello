@@ -1,10 +1,9 @@
-  
-<!html-КОД DOCTYPE>
+<!DOCTYPE html>
 <html>
-<голова>
- <title>Заголовок</title>
-</глава>
-<тело>
- "Привет, Мир!"
-</тело>
+<head>
+	<title>Заголовок</title>
+</head>
+<body>
+	"Hello World!"
+</body>
 </html>
